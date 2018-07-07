@@ -1,0 +1,11 @@
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\bin\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.deps.json
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\bin\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.runtimeconfig.json
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\bin\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.runtimeconfig.dev.json
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\bin\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.dll
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\bin\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.pdb
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\obj\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.csprojAssemblyReference.cache
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\obj\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.csproj.CoreCompileInputs.cache
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\obj\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.AssemblyInfoInputs.cache
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\obj\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.AssemblyInfo.cs
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\obj\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.dll
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Builder\obj\Debug\netcoreapp2.0\BilgeAdam.SomePatterns.Builder.pdb

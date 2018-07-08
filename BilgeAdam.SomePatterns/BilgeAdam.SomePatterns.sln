@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.SomePatterns.Builder", "BilgeAdam.SomePatterns.Builder\BilgeAdam.SomePatterns.Builder.csproj", "{FD61DDFE-9860-4D94-A053-AA9D14962474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilgeAdam.SomePatterns.Builder", "BilgeAdam.SomePatterns.Builder\BilgeAdam.SomePatterns.Builder.csproj", "{FD61DDFE-9860-4D94-A053-AA9D14962474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.SomePatterns.Composite", "BilgeAdam.SomePatterns.Composite\BilgeAdam.SomePatterns.Composite.csproj", "{0CD1C802-D580-42C8-8F1D-63BB706408D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FD61DDFE-9860-4D94-A053-AA9D14962474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD61DDFE-9860-4D94-A053-AA9D14962474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD61DDFE-9860-4D94-A053-AA9D14962474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD1C802-D580-42C8-8F1D-63BB706408D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD1C802-D580-42C8-8F1D-63BB706408D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD1C802-D580-42C8-8F1D-63BB706408D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD1C802-D580-42C8-8F1D-63BB706408D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

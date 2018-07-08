@@ -1,0 +1,10 @@
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\bin\Debug\BilgeAdam.SomePatterns.Composite.exe.config
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\bin\Debug\BilgeAdam.SomePatterns.Composite.exe
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\bin\Debug\BilgeAdam.SomePatterns.Composite.pdb
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.csprojAssemblyReference.cache
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.frmMain.resources
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.Properties.Resources.resources
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.csproj.GenerateResource.cache
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.csproj.CoreCompileInputs.cache
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.exe
+C:\YMS8416\SomePatterns\BilgeAdam.SomePatterns\BilgeAdam.SomePatterns.Composite\obj\Debug\BilgeAdam.SomePatterns.Composite.pdb
